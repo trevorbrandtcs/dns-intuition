@@ -1,4 +1,3 @@
-# dns-intuition
 
 <p align="center">
 <img src="https://i.imgur.com/CtGfsq8.png" alt="DNS Graphic"/>
