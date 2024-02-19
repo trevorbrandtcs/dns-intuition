@@ -58,6 +58,6 @@ Finally, let's create a CNAME record. To do this, navigate back to DNS in Server
 <br />
 
 <p>
-Continued <a href="https://github.com/TrevorBrandtIT/file-shares-and-permissions">here.</a> Thank you for following along!
+Continued <a href="https://github.com/TrevorBrandtCS/file-shares-and-permissions">here.</a> Thank you for following along!
 </p>
 <br />
