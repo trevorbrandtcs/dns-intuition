@@ -45,7 +45,7 @@ Log into both VMs as Jane Doe. From Client-1, try and ping "mainframe", notice t
 <img src="https://imgur.com/WNd1PjI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Now we'll observe some things in the DNS cache. Go back to DC-1 and change mainframe's IP address to 8.8.8.8, then ping mainframe from Client-1. Notice that it still pings the original IP address. We'll need to clear the local DNS cache to see the new one. To do this, open PowerShell as an Admin and then display the DNS information with "ipconfig /displaydns" and then flush it with "ipconfig /flushdns". Ping mainframw again and notice that the new IP is displayed.
+Now we'll observe some things in the DNS cache. Go back to DC-1 and change mainframe's IP address to 8.8.8.8, then ping mainframe from Client-1. Notice that it still pings the original IP address. We'll need to clear the local DNS cache to see the new one. To do this, open PowerShell as an Admin and then display the DNS information with "ipconfig /displaydns" and then flush it with "ipconfig /flushdns". Ping mainframe again and notice that the new IP is displayed.
 </p>
 <br />
 
